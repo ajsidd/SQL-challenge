@@ -5,7 +5,7 @@ This repository contains SQL code for creating tables and performing data analys
 
 ## Table of Contents
 1. [Table Schema](#table-schema)
-2. [Data Analysis Queries](#data-analysis-queries)
+2. [Data Analysis](#data-analysis)
 
 ## Table Schema
 The SQL script `schema.sql` contains the schema for the following tables:
@@ -16,7 +16,7 @@ The SQL script `schema.sql` contains the schema for the following tables:
 - `salaries`
 - `dept_emp`
 
-## Data Analysis Queries
+## Data Analysis
 The SQL script `data_analysis.sql` contains the following queries:
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
